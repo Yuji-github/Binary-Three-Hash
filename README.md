@@ -1,1 +1,1 @@
-# Binary-Three-Hash
+# Binary-Tree-Hash
